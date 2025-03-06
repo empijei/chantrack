@@ -1,4 +1,4 @@
-// Package chantrack allows to keep track of channels.
+// Package chantrack allows to keep track of channels buffers.
 package chantrack
 
 import (
